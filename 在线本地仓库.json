@@ -1,5 +1,5 @@
 {"urls": [
-{"url": "lib/无忧.json","name":"无忧总线路"},
+{"url": "https://cdn.staticaly.com/gh/qcfree/tvbox/main/lib/无忧.json","name":"无忧总线路"},
 {"url": "https://cdn.staticaly.com/gh/qcfree/tvbox/main/lib/无忧TV.json","name":"无忧普通线路"},
 {"url": "https://cdn.staticaly.com/gh/qcfree/tvbox/main/lib/无忧ali.json","name":"无忧阿里线路"},
 {"url": "https://cdn.staticaly.com/gh/qcfree/tvbox/main/lib/儿童.txt","name":"儿童课堂线路"},
