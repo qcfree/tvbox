@@ -21,7 +21,7 @@
 "storeHouse":
 [
 
-{"sourceName":"可视本地仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvbox/main/在线本地仓库.json"},
+{"sourceName":"可视本地仓库","sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvbox/main/在线本地仓库.json"},
 {"sourceName":"云星在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox/main/lib/zx.json"},
 {"sourceName":"绿茶在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox/main/lib/99.json"},
 {"sourceName":"自用在线仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/自用线路.json"},
