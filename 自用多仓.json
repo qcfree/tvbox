@@ -23,6 +23,9 @@
 
 {"sourceName":"可视本地仓库","sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvbox/main/在线本地仓库.json"},
 {"sourceName":"云星在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox/main/lib/zx.json"},
+  //{"sourceName":"云星日记仓库","sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库.json"},
+  {"sourceName":"☁️云星在线仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+  {"sourceName":"☁️可视本地仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"绿茶在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox/main/lib/99.json"},
 {"sourceName":"自用在线仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/自用线路.json"},
 {"sourceName":"自用在线仓库2","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/xl.json"},
@@ -49,7 +52,7 @@
 {"sourceName":"宝盒多仓","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"},
 {"sourceName":"宝盒max多仓","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax"},
 {"sourceName":"公众号吾爱有三日月与卿","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
-{"sourceName":"云星日记仓库","sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库.json"},
+
   // 猎狼多仓.http://tvbox.lltv8.top
 {"sourceName":"🌹🌹猎狼TV吧🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧.json"},
 {"sourceName":"🌹🌹猎狼TV吧影视🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧影视.json"}
